@@ -7,3 +7,9 @@ GYMLABOハッカソン中のテストリポジトリ
 - アーキテクチャ図
 
 など
+
+## Dseno
+denoでTSファイルを実行する方法  
+```
+deno run -A idea.ts   
+```
